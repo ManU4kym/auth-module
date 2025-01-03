@@ -1,0 +1,37 @@
+
+
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.*.local
+
+# Nuxt build artifacts
+.nuxt/
+dist/
+
+# Logs
+logs/
+*.log
+
+# Cache and temporary files
+.cache/
+*.tmp
+
+# IDE-specific files
+.vscode/
+.idea/
+.DS_Store
+
+# Test coverage
+coverage/
+
+# Security-related files
+secrets.json
+config/*.secret.js
+
